@@ -1,0 +1,1 @@
+# VerilogA-model-for-Binary-RRAM
